@@ -5,15 +5,15 @@ Server Performance Stats
 
 Getting Started
 1. Clone this repo:
-git clone https://github.com/suraj-mahakud/server-stats.git
+   git clone https://github.com/suraj-mahakud/server-stats.git
 
-cd server-stats\server-performamce-stats
+   cd server-stats\server-performamce-stats
 
 2. Make script an executable:
-chmod +x server-stats.sh
+   chmod +x server-stats.sh
 
 3. Run it with:
-./server-stats.sh
+   ./server-stats.sh
 
 ✅ Requirements Covered
 ✔️ Total CPU usage
